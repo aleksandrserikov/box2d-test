@@ -1,0 +1,5 @@
+.bullet {
+    position: absolute;
+    box-shadow: 0px 0px 12px 3px #2a65db;
+    box-sizing: border-box;
+}
